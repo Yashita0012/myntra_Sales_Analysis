@@ -141,19 +141,6 @@ Some important insights generated from the analysis:
 - Products with higher ratings tend to receive more customer reviews.
 - Standard sizes (S, M, L, XL) are the most commonly available across products.
 
----
-
-## 📷 Dashboard Preview
-
-### Product Performance Dashboard
-
-![Dashboard 1](images/dashboard1.png)
-
-### Customer Preference Dashboard
-
-![Dashboard 2](images/dashboard2.png)
-
----
 
 ## 📂 Project Structure
 
